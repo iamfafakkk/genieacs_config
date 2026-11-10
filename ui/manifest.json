@@ -1,0 +1,6 @@
+{
+  "backedUpAt": "2026-11-10T08:30:04+00:00",
+  "genieacsVersion": "1.2.16+26032938e9",
+  "bundle": "public/app-BX5HV4M3.js",
+  "notes": "config UI (ui.device.*) ada di db/config.bson; bundle + scripts untuk patch frontend"
+}
